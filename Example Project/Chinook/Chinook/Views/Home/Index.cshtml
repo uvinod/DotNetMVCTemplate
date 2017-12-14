@@ -1,0 +1,19 @@
+﻿@model DbResult<Track>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+Total Track Found : @Model.Count
+
+<ul>
+
+@foreach (var item in @Model.Items)
+{
+    <li>@item.Name</li>
+}
+
+</ul>
+

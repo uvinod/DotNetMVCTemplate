@@ -1,0 +1,10 @@
+D:\subramani\work\dotnet\workspace\Chinook\Chinook.Domain\bin\Debug\Chinook.Domain.dll
+D:\subramani\work\dotnet\workspace\Chinook\Chinook.Domain\bin\Debug\Chinook.Domain.pdb
+D:\subramani\work\dotnet\workspace\Chinook\Chinook.Domain\obj\Debug\ResolveAssemblyReference.cache
+D:\subramani\work\dotnet\workspace\Chinook\Chinook.Domain\obj\Debug\Chinook.Domain.dll
+D:\subramani\work\dotnet\workspace\Chinook\Chinook.Domain\obj\Debug\Chinook.Domain.pdb
+C:\Users\gokulakannan\Desktop\Chinook\Chinook\Chinook.Domain\bin\Debug\Chinook.Domain.dll
+C:\Users\gokulakannan\Desktop\Chinook\Chinook\Chinook.Domain\bin\Debug\Chinook.Domain.pdb
+C:\Users\gokulakannan\Desktop\Chinook\Chinook\Chinook.Domain\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\gokulakannan\Desktop\Chinook\Chinook\Chinook.Domain\obj\Debug\Chinook.Domain.dll
+C:\Users\gokulakannan\Desktop\Chinook\Chinook\Chinook.Domain\obj\Debug\Chinook.Domain.pdb

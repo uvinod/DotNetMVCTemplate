@@ -1,0 +1,5 @@
+D:\subramani\work\dotnet\workspace\Chinook\Chinook.Service\bin\Debug\Chinook.Service.dll
+D:\subramani\work\dotnet\workspace\Chinook\Chinook.Service\bin\Debug\Chinook.Service.pdb
+D:\subramani\work\dotnet\workspace\Chinook\Chinook.Service\obj\Debug\ResolveAssemblyReference.cache
+D:\subramani\work\dotnet\workspace\Chinook\Chinook.Service\obj\Debug\Chinook.Service.dll
+D:\subramani\work\dotnet\workspace\Chinook\Chinook.Service\obj\Debug\Chinook.Service.pdb
